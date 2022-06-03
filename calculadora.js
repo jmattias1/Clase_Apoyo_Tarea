@@ -7,6 +7,8 @@ const dividir = require("./dividir");
 
 let numeroA = +process.argv[2];
 let numeroB = +process.argv[3];
+let numeroB = +process.argv[4];
+
 
 console.log("resultado de la sumar ", sumar(numeroA,numeroB));
 console.log("resultado de la restar ", restar(numeroA,numeroB));
