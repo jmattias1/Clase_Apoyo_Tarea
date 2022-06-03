@@ -11,5 +11,8 @@ let numeroB = +process.argv[4];
 
 console.log("resultado de la sumar ", sumar(numeroB));
 console.log("resultado de la restar ", restar(numeroA,numeroB));
+
+
+console.log("Soy un texto buenito");
 console.log("resultado de la multiplicaion ", multiplicar(numeroA));
 console.log("resultado de la divicion ", dividir(numeroA,numeroB));
