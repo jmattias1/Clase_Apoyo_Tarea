@@ -12,3 +12,5 @@ console.log("resultado de la sumar ", sumar(numeroA,numeroB));
 console.log("resultado de la restar ", restar(numeroA,numeroB));
 console.log("resultado de la multiplicaion ", multiplicar(numeroA,numeroB));
 console.log("resultado de la divicion ", dividir(numeroA,numeroB));
+
+console.log("Soy un texto buenito");
